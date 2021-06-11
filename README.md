@@ -1,6 +1,9 @@
 # iFake
 The only Fake/Random Information Generator you will ever need
 
+![image](https://user-images.githubusercontent.com/36286877/121724622-c24c7e00-cb05-11eb-9012-9fa8d61d333a.png)
+
+
 # How to open ( .exe )
 Double click on the excecutable file (.exe)
 
