@@ -1,3 +1,5 @@
+
+
 # iFake
 The only Fake/Random Information Generator you will ever need
 
@@ -46,3 +48,5 @@ fil_PH, fr_CA, fr_CH, fr_FR, fr_QC, ga_IE, he_IL, hi_IN, hr_HR, hu_HU, hy_AM,
 id_ID, it_CH, it_IT, ja_JP, ka_GE, ko_KR, la, lb_LU, lt_LT, lv_LV, mt_MT, 
 ne_NP, nl_BE, nl_NL, no_NO, or_IN, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sk_SK, 
 sl_SI, sv_SE, ta_IN, th, th_TH, tl_PH, tr_TR, tw_GH, uk_UA, zh_CN, zh_TW
+
+![iFake_icon](https://user-images.githubusercontent.com/36286877/127768584-d94d0a78-15e7-4861-ac60-bd94b9da7608.png)
